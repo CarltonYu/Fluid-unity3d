@@ -1,0 +1,10 @@
+/Library
+/Temp
+/ios
+/android
+/obj
+/pc
+/Logs
+/Assets/VSCode
+*.sln
+*.log
